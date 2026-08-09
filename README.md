@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💖 Just For Her
 
 A tiny interactive corner of the internet where every click reveals a new moment. ✨
@@ -69,3 +70,6 @@ This project is part of my web-development practice, where I experiment with HTM
 ## ⭐ Support
 
 If you enjoyed the project, consider giving the repository a ⭐.
+=======
+
+>>>>>>> cb685f6bfba8c614fbf119b44d8f6dd1394248ae
